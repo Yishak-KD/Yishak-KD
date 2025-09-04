@@ -1,5 +1,5 @@
 # Hi, I'm Yishak T. Kidanu 👋  
-### Software Engineer | DevOps Specialist | Scalable System Architect  
+### Software Engineer | DevOps Engineer | Scalable System Architect  
 
 Welcome to my GitHub! I am a **passionate Software Engineer** and **DevOps Specialist** with over 5 years of experience crafting innovative and reliable digital solutions. My focus is on creating **high-performance web applications**, designing robust **backend systems**, and optimizing workflows with **modern DevOps practices**.  
 
