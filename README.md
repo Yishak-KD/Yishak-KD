@@ -1,46 +1,24 @@
 # Yishak T. Kidanu
-Senior Full-Stack Engineer | AI-Driven Systems | Scalable Architecture
 
-I build production-grade, multi-tenant SaaS systems with a backend-first mindset.  
-Strong focus on performance, data integrity, and real-world scalability.
+Full-Stack Engineer (Backend-leaning)
 
----
+I build scalable, production-grade systems with a focus on clean architecture, data integrity, and performance.
 
-## Core Stack
+## Work
 
-TypeScript • Node.js • React / Next.js  
-PostgreSQL • Prisma • Redis  
-Docker • CI/CD • Cloud (GCP / AWS)
+**PharmaFlow** — AI-enabled multi-tenant SaaS platform  
+Next.js • Node.js • PostgreSQL • Prisma  
+RBAC, transactional workflows, analytics, LLM-powered insights.
 
-AI Systems: LLM integrations • RAG • Vector search • Workflow automation
+## Stack
 
----
-
-## Selected Work
-
-### PharmaFlow — AI-Enabled Multi-Tenant SaaS
-Production platform used by real businesses.  
-Built with Next.js, Node.js, PostgreSQL.
-
-• RBAC + transactional workflows  
-• Multi-branch architecture  
-• Analytics dashboards  
-• LLM-powered data summarization & contextual insights  
-• Designed for scalability and clean system boundaries  
-
----
-
-## Engineering Focus
-
-• Backend-leaning (system design, APIs, data modeling)  
-• Real-time systems & workflow engines  
-• AI-native product thinking  
-• Clean architecture & long-term maintainability  
-
----
+TypeScript • Node.js • Go  
+React • Next.js • React Native  
+PostgreSQL • Redis • GraphQL
+Docker • Docker Compose • Terraform  
+CI/CD • Cloud
 
 ## Links
 
-Portfolio: https://yishakdev.com  
-LinkedIn: https://linkedin.com/in/yishak-kidanu  
-Email: yisak04@gmail.com
+https://yishakdev.com  
+https://linkedin.com/in/yishak-kidanu
