@@ -1,6 +1,6 @@
 # Yishak T. Kidanu
 
-Full-Stack Engineer (Backend-leaning)
+Full-Stack Engineer
 
 I build scalable, production-grade systems with a focus on clean architecture, data integrity, and performance.
 
